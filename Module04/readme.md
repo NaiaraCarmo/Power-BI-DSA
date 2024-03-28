@@ -8,9 +8,9 @@ There will be 4 Dashboards and more than 10 graphs, in addition to several Power
 
 # Dashboard
 
-![](Module04/MiniProject01_DB1.png)
-![](Module04/MiniProject01_DB2.png)
-![](Module04/MiniProject01_DB3.png)
-![](Module04/MiniProject01_DB4.png)
+![](MiniProject01_DB1.png)
+![](MiniProject01_DB2.png)
+![](MiniProject01_DB3.png)
+![](MiniProject01_DB4.png)
 
 #
