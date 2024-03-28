@@ -1,83 +1,83 @@
-# O Que é Business Intelligence?
+# What is Business Intelligence?
 
-Business Intelligence (BI) é um conjunto de técnicas e ferramentas utilizadas para transformar dados em informações úteis para a tomada de decisão empresarial. BI permite aos usuários analisar dados de diferentes fontes, criar relatórios e visualizações e monitorar indicadores-chave de desempenho (KPIs) para ajudar a identificar tendências e oportunidades. As ferramentas de BI incluem relatórios, dashboards, mineração de dados, análise estatística e até Inteligência Artificial.
+Business Intelligence (BI) is a set of techniques and tools used to transform data into useful information for business decision-making. BI allows users to analyze data from different sources, create reports and visualizations, and monitor key performance indicators (KPIs) to help identify trends and opportunities. BI tools include reports, dashboards, data mining, statistical analysis, and even Artificial Intelligence.
 
-Normalmente usamos BI a fim de olhar para o passado e compreender o que aconteceu. Qual foi o volume de vendas por estado? Qual produtos vendeu mais em qual dia da semana? Quais lojas tiveram melhor desempenho de vendas? Todas essas são perguntas tipicamente respondidas com BI.
+We typically use BI in order to look into the past and understand what happened. What was the sales volume by state? Which products sold the most on which day of the week? Which stores had the best sales performance? These are all questions typically answered with BI.
 
-Existem muitos exemplos de como a Business Intelligence (BI) pode ser usada para melhorar a tomada de decisão em diferentes setores. Alguns exemplos incluem:
+There are many examples of how Business Intelligence (BI) can be used to improve decision-making in different industries. Some examples include:
 
-Em finanças, uma empresa pode usar BI para analisar dados financeiros, como receita, despesas e lucro, para identificar tendências e prever resultados futuros. Isso pode ajudar a identificar oportunidades de economia e crescimento.
+In finance, a company can use BI to analyze financial data, such as revenue, expenses, and profit, to identify trends and predict future results. This can help identify opportunities for savings and growth.
 
-Em vendas, uma empresa pode usar BI para analisar dados de vendas, como volume de vendas, receita e margem de lucro, para identificar tendências e oportunidades. Isso pode ajudar a identificar produtos ou regiões que estão performando bem ou mal e tomar medidas para aumentar as vendas.
+A company can use BI to analyze sales data such as sales volume, revenue, and profit margin to identify trends and opportunities. This can help you identify products or regions that are performing well or poorly and take steps to increase sales.
 
-Em operações, uma empresa pode usar BI para monitorar indicadores-chave de desempenho (KPIs), como tempo de ciclo de produção, taxa de defeitos e disponibilidade de equipamentos, para identificar problemas e oportunidades de melhoria.
+In operations, a company can use BI to monitor key performance indicators (KPIs), such as production cycle time, defect rate, and equipment availability, to identify problems and opportunities for improvement.
 
-Em recursos humanos, uma empresa pode usar BI para analisar dados de funcionários, como taxa de rotatividade, tempo de serviço e desempenho, para identificar tendências e oportunidades. Isso pode ajudar a identificar problemas com o clima organizacional ou com programas de treinamento e desenvolvimento.
+In human resources, a company can use BI to analyze employee data such as turnover rate, length of service, and performance to identify trends and opportunities. This can help identify problems with the organizational climate or with training and development programs.
 
-Em saúde, os sistemas de Business Intelligence podem ser usados para monitorar e analisar os dados de pacientes, como histórico médico, resultados de exames e tratamentos, a fim de identificar tendências e tendências de saúde, bem como identificar problemas de saúde e fornecer informações para a tomada de decisão clínica.
+In healthcare, Business Intelligence systems can monitor and analyze patient data, such as medical history, test results, and treatments, to identify health trends and problems and provide information for clinical decision-making.
 
-# Business Intelligence e Big Data
+# Business Intelligence and Big Data
 
-Business Intelligence (BI) e Big Data são duas áreas relacionadas. BI é um conjunto de técnicas e ferramentas usadas para transformar dados em informações valiosas para a tomada de decisões de negócios. Enquanto Big Data se refere a grandes quantidades de dados, provenientes de uma variedade de fontes e com diferentes formatos.
+Business Intelligence (BI) and Big Data are related areas. BI is a set of techniques and tools used to transform data into valuable information for making business decisions. Big Data refers to large amounts of data that come from various sources and are in different formats.
 
-A capacidade de processar grandes quantidades de dados é uma das principais vantagens do Big Data, pois permite coletar e armazenar dados de muitas fontes diferentes, incluindo transações de negócios, dados de redes sociais, registros de sensores e outros tipos de dados não estruturados. BI usa esses dados para criar insights e entender tendências que podem ser usadas para melhorar a eficiência e rentabilidade dos negócios.
+One of the main advantages of big data is the ability to process large amounts of data. It allows you to collect and store data from many different sources, including business transactions, social media data, sensor logs, and other types of unstructured data. BI uses this data to create insights and understand trends that can improve business efficiency and profitability.
 
-Portanto, Big Data é uma fonte de informação para Business Intelligence e as ferramentas de BI foram se adaptando para lidar com essa quantidade de dados. Essas duas áreas trabalham juntas para ajudar as empresas a tomar decisões melhores e mais informadas.
+Therefore, Big Data is a source of information for Business Intelligence and BI tools have adapted to deal with this amount of data. These two areas work together to help companies make better, more informed decisions.
 
-Assim, uma outra área na qual o “Self-Service” BI está decolando é a análise de Big Data. Este é um fenômeno mais recente, mas está gerando um incrível crescimento e inovação. Big Data geralmente se refere a grandes conjuntos de dados que são simplesmente muito grandes para ser gerenciados ou consultados com ferramentas tradicionais de análise de dados. Esse volume imenso de dados é resultado da explosão de ferramentas de geração de dados, rastreamento, monitoramento, transações e redes sociais (para citar alguns) que se tornaram tão populares nos últimos anos.
+Thus, Big Data analysis is another area in which “Self-Service” BI is taking off. This is a more recent phenomenon, but it is driving incredible growth and innovation. Big Data generally refers to large data sets that are too large to manage or queried with traditional data analysis tools. This immense volume of data is a result of the explosion of data generation, tracking, monitoring, transactional, and social networking tools (to name a few) that have become so popular in recent years.
 
-Não só essas ferramentas geram cargas de novos dados, mas também geram um novo tipo de dado, chamado dados "não estruturados". Em termos gerais, dados não estruturados são simplesmente dados que não foram organizados de forma predefinida. Ao contrário de dados mais tradicionais e estruturados, esse tipo de dado é composto em larga escala por texto, ao mesmo tempo que contém dados mais facilmente definidos, como datas ou números de identificação. Exemplos de aplicativos que geram esse tipo de dado incluem as ferramentas de acompanhamento do comportamento do cliente que você usa para ver o que os clientes estão fazendo em um site de comércio eletrônico, as pilhas de log e arquivos de eventos gerados a partir de alguns dispositivos inteligentes (como alarmes e smart sensores) e ferramentas de rastreamento de redes sociais de larga escala.
+Not only do these tools generate loads of new data, they also generate a new type of data, called "unstructured" data. Broadly speaking, unstructured data is simply data that has not been organized in a predefined way. Unlike more traditional and structured data, this type of data is largely composed of text and contains more easily defined data, such as dates or identification numbers. Examples of applications that generate this type of data include the customer behavior tracking tools you use to see what customers are doing on an e-commerce site, the log stacks, and event files generated from some devices. smart devices (such as alarms and smart sensors) and large-scale social media tracking tools.
 
-As empresas que estão implantando essas ferramentas estão sendo desafiadas não só por um dilúvio súbito de dados não estruturados que reduzem rapidamente os recursos de armazenamento, mas, ainda mais importante, estão encontrando dificuldades para consultar esta nova informação.
+Companies deploying these tools are being challenged not only by a sudden deluge of unstructured data rapidly reducing storage resources but, even more importantly, by finding it difficult to query this new information.
 
-As ferramentas tradicionais de armazenamento de dados não foram projetadas para gerenciar ou consultar dados não estruturados (Bancos de dados relacionais e Data Warehouses tradicionais). Novas inovações de armazenamento de dados, como os Data Lakes, estão emergindo para resolver essa necessidade, mas as organizações que ainda dependem exclusivamente de ferramentas tradicionais ao implantar aplicativos que geram dados não estruturados geralmente se encontram sentadas em montanhas de dados que não sabem como usar.
+Traditional data warehousing tools (traditional relational databases and data warehouses) were not designed to manage or query unstructured data. New data storage innovations like Data Lakes are emerging to solve this need, but organizations that still rely exclusively on traditional tools when deploying applications that generate unstructured data often find themselves sitting on mountains of data that they don't know how to use. 
 
-E Data Science compreender um conjunto de técnicas e procedimentos que permitem a análise de Big Data. Quando se encontram é o que chamamos de Big Data Analytics.
+Data Science comprises a set of techniques and procedures for analyzing Big Data. When they meet, this is what we call Big Data Analytics.
 
-# O Que é Data Science?
+# What is Data Science?
 
-Data Science (Ciência de Dados) é um campo interdisciplinar que combina matemática, estatística e computação para extrair conhecimento e insights úteis a partir de grandes conjuntos de dados.
+Data Science is an interdisciplinary field that combines mathematics, statistics, and computing to extract knowledge and useful insights from large data sets.
 
-Os profissionais de Data Science usam técnicas de análise estatística, mineração de dados, aprendizado de máquina e Inteligência Artificial para explorar e entender os dados, criar modelos para prever resultados e comunicar os insights obtidos para ajudar na tomada de decisão. Data Science é amplamente utilizada em vários setores, como finanças, saúde, marketing, varejo e tecnologia.
+Data scientists use statistical analysis, data mining, machine learning, and Artificial Intelligence techniques to explore and understand data, create models to predict results and communicate the insights obtained to help with decision-making. Data Science is widely used in various sectors, such as finance, healthcare, marketing, retail, and technology.
 
-Existem muitos exemplos de como Data Science pode ser usada para melhorar as operações e aumentar a eficiência em diferentes setores. Alguns exemplos incluem:
+There are many examples of how Data Science can be used to improve operations and increase efficiency across different industries. Some examples include:
 
-Em marketing, uma empresa pode usar técnicas de Data Science para analisar dados de comportamento do cliente, como histórico de compras, buscas e cliques em anúncios, para segmentar melhor o público-alvo e personalizar as campanhas de marketing.
+In marketing, a company can use Data Science techniques to analyze customer behavior data, such as purchase history, searches, and ad clicks, to better segment the target audience and personalize marketing campaigns.
 
-Em finanças, uma empresa pode usar técnicas de Data Science para analisar dados financeiros, como transações bancárias e dados de mercado, para identificar tendências e prever resultados futuros. Isso pode ajudar a identificar oportunidades de investimento e riscos.
+In finance, a company can use data science techniques to analyze financial data, such as bank transactions and market data, to identify trends and predict future results. This can help identify investment opportunities and risks.
 
-Em vendas, uma empresa pode usar técnicas de Data Science para analisar dados de vendas, como volume de vendas e histórico de clientes, para prever a demanda e otimizar as estratégias de vendas.
+A company can use data science techniques to analyze sales data, such as sales volume and customer history, to predict demand and optimize sales strategies.
 
-Em operações, uma empresa pode usar técnicas de Data Science para analisar dados de produção, como tempo de ciclo de produção e taxa de defeitos, para identificar problemas e oportunidades de melhoria.
+In operations, a company can use data science techniques to analyze production data, such as production cycle time and defect rate, to identify problems and opportunities for improvement.
 
-Em saúde, os sistemas de Data Science podem ser usados para monitorar e analisar os dados de pacientes, como histórico médico, resultados de exames e tratamentos, para identificar tendências de saúde, bem como identificar problemas de saúde e fornecer informações para a tomada de decisão clínica.
+In healthcare, data science systems can be used to monitor and analyze patient data, such as medical history, test results, and treatments, identify health trends, identify health problems, and provide information for decision-making. clinic.
 
-Em logística, os sistemas de Data Science podem ser usados para otimizar rotas de entrega, prever demanda e usar algoritmos de Machine Learning para acompanhar e prever tendências de transporte e logística.
+In logistics, Data Science systems can be used to optimize delivery routes, forecast demand, and use Machine Learning algorithms to track and predict transport and logistics trends.
 
-Esses são apenas alguns exemplos da ampla gama de aplicações de Data Science nas empresas, que podem ser utilizadas para melhorar a eficiência, aumentar a receita e tomar decisões informadas.
+These are just a few examples of the wide range of Data Science applications in companies, which can be used to improve efficiency, increase revenue, and make informed decisions.
 
-# O Que é o Microsoft Power BI?
+# What is Microsoft Power BI?
 
-Microsoft Power BI é uma plataforma de Business Intelligence (BI) da Microsoft que permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e dashboards interativos e compartilhar insights com outros usuários.
+Microsoft Power BI is a Business Intelligence (BI) platform from Microsoft that allows users to visualize and analyze data from different sources, create interactive reports and dashboards, and share insights with other users.
 
-O Power BI permite que os usuários conectem-se a diversas fontes de dados, incluindo planilhas, bancos de dados, serviços de nuvem e aplicativos, e transformem esses dados em informações valiosas.
+Power BI allows users to connect to diverse data sources, including spreadsheets, databases, cloud services, and applications, and transform that data into valuable insights.
 
-Com o Power BI, os usuários podem importar, limpar, transformar e modelar dados, criar relatórios e visualizações e publicá-los em um ambiente compartilhado (na versão paga). Ele também tem recursos avançados como dashboards interativos, análise de dados, Inteligência Artificial e automatização de relatórios.
+With Power BI, users can import, cleanse, transform, and model data, create reports and visualizations, and publish them to a shared environment (in the paid version). It also has advanced features such as interactive dashboards, data analysis, Artificial Intelligence, and report automation.
 
-Neste curso usaremos a versão gratuita do Power BI, o Power BI Desktop.
+This course will use the free version of Power BI, Power BI Desktop.
 
-# O Que é a Microsoft Power Platform?
+# What is the Microsoft Power Platform?
 
-A Microsoft Power Platform é uma plataforma de automação de negócios e desenvolvimento de aplicativos baseada em nuvem que permite aos usuários criar e personalizar soluções de negócios sem a necessidade de programação de computadores. A plataforma possui quatro componentes principais:
+Microsoft Power Platform is a cloud-based business automation and application development platform that allows users to create and customize business solutions without the need for computer programming. The platform has four main components:
 
-Power Automate: permite aos usuários automatizar fluxos de trabalho, como aprovações, notificações e integrações com aplicativos e serviços externos, usando regras e fluxos de trabalho pré-construídos ou personalizados.
+Power Automate: Allows users to automate workflows such as approvals, notifications, and integrations with external applications and services using pre-built or custom rules and workflows.
 
-Power Apps: permite aos usuários criar aplicativos personalizados para web e dispositivos móveis sem necessidade de programação, usando modelos e componentes pré-construídos ou personalizados.
+Power Apps allows users to create custom web and mobile apps without coding, using pre-built or custom templates and components.
 
-Power BI: permite aos usuários visualizar e analisar dados de diferentes fontes, criar relatórios e dashboards interativos e compartilhar insights com outros usuários.
+Power BI: allows users to visualize and analyze data from different sources, create interactive reports and dashboards, and share insights with other users.
 
-Power Virtual Agents: permite aos usuários criar chatbots personalizados sem necessidade de programação, usando modelos e componentes pré-construídos ou personalizados.
+Power Virtual Agents: Allows users to create custom chatbots without programming, using pre-built or custom templates and components.
 
-A Power Platform é projetada para ser fácil de usar, escalável e segura, e é baseada na plataforma Microsoft Azure, permitindo aos usuários aproveitar a segurança, a escalabilidade e os recursos de inteligência artificial da Azure.
+The Power Platform is designed to be easy to use, scalable, and secure. It is based on the Microsoft Azure platform, allowing users to leverage Azure's security, scalability, and artificial intelligence capabilities.
 
 #
