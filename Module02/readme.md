@@ -16,10 +16,10 @@ The Dashboard must also allow the user to filter the data by year, segment, and 
 # Analysis
 
 * The Supplies category provided the highest percentage of sales in all years analyzed.
-* The United States has the largest number of orders, followed by France, Australia and Mexico. In all cases, medium priority sales were the most relevant.
+* The United States has the largest number of orders, followed by France, Australia, and Mexico. In all cases, medium-priority sales were the most relevant.
 *Tables have received the highest discount on average over the years.
-* The largest financial sales volumes are concentrated in Europe, Africa and Southeast Asia.
-* Although the United States has a high number of orders, the financial volume is not high, which means that many low value orders are placed in this case.
+* The largest financial sales volumes are concentrated in Europe, Africa, and Southeast Asia.
+* Although the United States has a high number of orders, the financial volume is not high, which means that many low-value orders are placed in this case.
 * The Home Office segment boosted the average sales in South America from 2012 onwards.
   
 #
