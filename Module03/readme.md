@@ -14,4 +14,6 @@ Below are the Lab 2 business questions.
 
 5) What was the behavior of the profit margin over time? Consider profit margin as the profit divided by the sales value.
 
+![](Lab2.png)
+
 #
