@@ -14,6 +14,8 @@ The Dashboard created must answer the following business questions:
 
 The data used in this chapter is fictitious.
 
+![](MiniProject03.png)
+
 ## Analysis
 
 - In this company there are 1400 employees with around 11 years of experience in general and almost 7 thousand reais in average salary.
