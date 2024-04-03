@@ -15,6 +15,7 @@ The Dashboard created must answer the following business questions:
 The data used in this chapter is fictitious.
 
 ![](MiniProject03.png)
+![](MiniProject03_1.png)
 
 ## Analysis
 
