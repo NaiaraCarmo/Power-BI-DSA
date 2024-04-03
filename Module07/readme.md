@@ -16,11 +16,10 @@ The dataset contains fictitious data.
 ## Dashboard with errors
 
 ![](MiniProject04.png)
-![](MiniProject04_1.png)
 
 ## Fixed dashboard
 
-![](MiniProject04_2.png)
+![](MiniProject04_1.png)
 
 ## Corrections made to the dashboard
 
