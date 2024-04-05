@@ -1,11 +1,11 @@
-## Exercício - Medidas de Posição e dispersão no Power BI
+## Exercise - Position and dispersion measurements in Power BI
 
-O dataset disponível possui dados fictícios de pacientes. Crie uma tabela de análise descritiva no Power BI com a média, mediana e moda da idade, altura e peso dos pacientes. Além disso, responda:
+The available dataset has fictitious patient data. Create a descriptive analysis table in Power BI with the mean, median, and mode of patients' age, height, and weight. Additionally, answer:
 
-1) Qual a moda do tipo sanguíneo?
-2) Qual a moda do estado civil?
+1) What is the fashion for blood type?
+2) What is the mode of marital status?
 
-Com o mesmo dataset, crie outro dashboard. Crie uma tabela de análise descritiva no Power BI com a média, variância e desvio padrão da idade, altura e peso dos pacientes. Além disso, calcule o coeficiente de variação para as três variáveis.
+Create another dashboard with the same dataset. In Power BI, create a descriptive analysis table with the mean, variance, and standard deviation of patients' age, height, and weight. Additionally, calculate the coefficient of variation for the three variables.
 
 ![](Exercise01.png)
 ![](Exercise01_01.png)
