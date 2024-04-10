@@ -1,7 +1,7 @@
 # Microsoft Power BI for Business Intelligence and Data Science Course - Data Science Academy
 
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Status&message=ONGOING&color=green&style=for-the-badge"/>
+<img src="https://img.shields.io/static/v1?label=Status&message=Finished&color=blue&style=for-the-badge"/>
 </p>
 
 ## Description
